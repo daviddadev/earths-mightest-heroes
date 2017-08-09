@@ -1,0 +1,65 @@
+{
+	"characters": [
+		{	
+			"name": "Iron Man",
+			"shortCode": "iron-man",
+			"alias": "Tony Stark",
+			"home": "Avenger's Tower",
+			"team": {
+				"name": "The Avengers",
+				"camp": "Marvel",
+				"powers": "Armor suit"
+			},
+			"bio": "A wealthy American business magnate, playboy, and ingenious scientist, Tony Stark suffers a severe chest injury during a kidnapping in which his captors attempt to force him to build a weapon of mass destruction. He instead creates a powered suit of armor to save his life and escape captivity. Later, Stark augments his suit with weapons and other technological devices he designed through his company, Stark Industries. He uses the suit and successive versions to protect the world as Iron Man, while at first concealing his true identity. Initially, Iron Man was a vehicle for Stan Lee to explore Cold War themes, particularly the role of American technology and business in the fight against communism.Subsequent re-imaginings of Iron Man have transitioned from Cold War themes to contemporary concerns, such as corporate crime and terrorism."
+		},
+		{
+			"name": "Batman",
+			"shortCode": "bat-man",
+			"alias": "Bruce Wayne",
+			"home": "Gotham",
+			"team": {
+				"name": "Justice League",
+				"camp": "DC",
+				"powers": "Intellect"
+			},
+			"bio": "Batman's secret identity is Bruce Wayne, a wealthy American playboy, philanthropist, and owner of Wayne Enterprises. After witnessing the murder of his parents Dr. Thomas Wayne and Martha Wayne as a child, he swore vengeance against criminals, an oath tempered by a sense of justice. Bruce Wayne trains himself physically and intellectually and crafts a bat-inspired persona to fight crime. Batman operates in the fictional Gotham City with assistance from various supporting characters, including his butler Alfred, police commissioner Gordon, and vigilante allies such as Robin. Unlike most superheroes, Batman does not possess any superpowers; rather, he relies on his genius intellect, physical prowess, martial arts abilities, detective skills, science and technology, vast wealth, intimidation, and indomitable will. A large assortment of villains make up Batman's rogues gallery, including his archenemy, the Joker."
+		},
+		{
+			"name": "Wonder Woman",
+			"shortCode": "wonder-woman",
+			"alias": "Diana Prince",
+			"home": "Themyscira",
+			"team": {
+				"name": "Justice League",
+				"camp": "DC",
+				"powers": "Strength"
+			},
+			"bio": "Wonder Woman's origin story relates that she was sculpted from clay by her mother Queen Hippolyta and given life by Aphrodite, along with superhuman powers as gifts by the Greek gods. However, in recent years artists updated her profile: she has been depicted as the daughter of Zeus, and jointly raised by her mother Hippolyta and her aunts Antiope and Menalippe; artist George Perez gave her a muscular look and emphasized her Amazonian heritage; artist Jim Lee redesigned Diana's costume to include pants (although now Wonder Woman uses a skirt and the New 52 pants design was never used officially); she inherits Ares's divine abilities, becoming the personified 'God of War'."
+		},
+		{
+			"name": "Deadpool",
+			"shortCode": "dead-pool",
+			"alias": "Wade Wilson",
+			"home": "Canada",
+			"team": {
+				"name": "X-Force",
+				"camp": "Marvel",
+				"powers": "Immortal"
+			},
+			"bio": "Deadpool is aware that he is a fictional comic book character. He commonly breaks the fourth wall, which is done by few other characters in the Marvel Universe, and this is used to humorous effect. He often has conversations with his two internal monologues, which are shown as caption boxes in his panels; in Deadpool #28 it is revealed that the villain Doctor Bong, a foe of Howard the Duck, is the logical voice appearing in yellow captions, and in Deadpool Annual #1 (2014) it is revealed that Madcap, a foe of Captain America, is the psychotic voice appearing in white captions with a typewriter serif. Deadpool is depicted as having a regenerative healing factor, which not only prevents him from being permanently injured through enhanced cell regeneration throughout his body, but also causes psychosis and mental instability, as his neurons are also affected by the accelerated regeneration. It is thought that while his psychoses are a handicap, they are also one of his assets as they make him an extremely unpredictable opponent. Taskmaster, who has photo-reflexive memory which allows him to copy anyone's fighting skills by observation, was unable to defeat Deadpool due to his chaotic and improvised fighting style. Taskmaster has also stated that Deadpool is an expert at distracting his opponents. Deadpool has sometimes been portrayed to have a strong sense of core morality. In Uncanny X-Force, he storms out after Wolverine tries to rationalize Fantomex killing Apocalypse, who was at the time in a child form. After Wolverine argues that Deadpool is motivated solely by money, Archangel reveals that Deadpool never cashed any of his checks."
+		},
+		{
+			"name": "Superman",
+			"shortCode": "super-man",
+			"alias": "Kal-El",
+			"home": "Smallville",
+			"team": {
+				"name": "Justice League",
+				"camp": "DC",
+				"powers": "Strength"
+			},
+			"bio": "The origin story of Superman relates that he was born Kal-El on the planet Krypton, before being rocketed to Earth as an infant by his scientist father Jor-El, moments before Krypton's destruction. Discovered and adopted by a farm couple from Kansas, the child is raised as Clark Kent and imbued with a strong moral compass. Early in his childhood, he displays various superhuman abilities, which, upon reaching maturity, he resolves to use for the benefit of humanity through a 'Superman' identity."
+		}
+
+	]
+}

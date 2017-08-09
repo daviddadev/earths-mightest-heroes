@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+	<title>Super Heroes</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<h1>Earth's Mightiest Heroes!</h1>
+	<ul class="character-list-container"></ul>
+
+
+	<script id="character-template" type="text/x-handlebars-template">
+		{{#each characters}}
+		<li class="character">
+			<img src="images/{{shortCode}}.jpg">
+			<div class="character-details">
+				<h2>{{name}}</h2>
+				<p>Alias: {{alias}}</p>
+				<p>Hometown: {{home}}</p>
+				{{#with team}}
+				<p>Team: {{name}}</p>
+				<p>Camp: {{camp}}</p>
+				<p>Powers: {{powers}}</p>
+				{{/with}}
+			</div>
+			<a href="#" class="button view-details">More Info</a>
+		</li>
+		{{/each}}
+	</script>
+
+	<script src='js/jquery-3.2.1.min.js'></script>
+	<script src='js/handlebars-v4.0.10.js'></script>
+	<script src='js/scripts.js'></script>
+
+</body>
+</html>
+
+<!-- Extra guts -->
+
+<!-- <a href="#" class="button view-details">View Details</a> -->
